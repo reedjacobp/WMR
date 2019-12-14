@@ -6,14 +6,18 @@ Student Emails: reedj35@unlv.nevada.edu & mcdonc4@unlv.nevada.edu
 Primary Github address: https://github.com/reedjacobp
 Directory: https://github.com/reedjacobp/WMR
 
+
 *****************************************************
 1. Introduction
 
 The main goal for this semester was to build a wheel mobile robot that could maneuver from point A to point B while avoiding obstacles. Over the course of the semester, several difficulties were encountered, and the main goal became being able to interface the robot with a Raspberry Pi in order to send commands through ROS to control the robot. For our robot, we were able to accomplish several tasks being: travel in a straight line, travel in the shape of a square bidirectionally, PID control, interface the IMU, and control the robot’s movements wirelessly.
 
-Documentation Used: https://www.pololu.com/product/3544/resources
+Documentation Used: 
+https://www.pololu.com/product/3544/resources
 
-Note: Video demonstration links are included at the bottom of the document.
+Note: 
+Video demonstration links are included at the bottom of the document.
+PDF version of report is included in repository. Please view for screenshots.
 
 Tasks:
 
